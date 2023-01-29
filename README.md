@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Feyyaz Idriz</h1>
 <h3 align="center">A passionate developer from Macedonia.</h3>
 
+- 💬 Ask me about **anything**
+
 - 🌱 I’m currently learning **everything**
 
 - 👨‍💻 All of my projects are available at [fidriz.online](fidriz.online)
 
 - 📝 I regularly write articles on [https://medium.com/@feyyazidr06](https://medium.com/@feyyazidr06)
-
-- 💬 Ask me about **anything**
 
 - 📫 How to reach me **feyyazidr06@gmail.com**
 
